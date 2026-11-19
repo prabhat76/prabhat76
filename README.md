@@ -1,50 +1,53 @@
 <div align="center">
 
 # Prabhat Kumar
-**Senior Full-Stack & Lead Front-End Engineer • 4+ Years Experience**
+**Senior Full-Stack & Lead Front-End Engineer**
 
-`TypeScript` • `Angular` • `React` • `Next.js` • `Java` • `Spring Boot` • `Microservices` • `Kotlin`
-
-🟢 **Open to Full-Stack, Frontend & SDE-2 Opportunities** | 📍 **Bangalore, India**
+**`4+ Years YOE`** • **`49+ Public Repos`** • **`12+ Core Technologies`** • **`2x Pull Shark`** • **`SIH Winner`**
 
 </div>
 
 ---
 
-### ⚡ Engineering Snapshot
-- **Core Expertise:** Architecting enterprise-grade frontends (**Angular, React, TypeScript**) and scalable backend services (**Java, Spring Boot, RESTful APIs**).
-- **Track Record:** **4+ years** delivering production fintech, CRM, and logistics systems; **Smart India Hackathon (SIH) Winner**; published researcher in **IoT & Quantum Computing**.
-- **End-to-End Ownership:** From system design and database modeling (**SQL Server, Supabase**) to CI/CD pipelines (**Docker, Jenkins, Git**) and mobile apps (**Kotlin, Ionic**).
+### 📊 Engineering Metrics & Impact
 
----
-
-### 🏆 Production Case Studies
-
-| System | Architecture & Stack | Business & Technical Impact |
+| Category | Quantified Metric | Details |
 | :--- | :--- | :--- |
-| **[Easebankv3](https://github.com/prabhat76/Easebankv3)** & **[Easebank-ui](https://github.com/prabhat76/Easebank-ui)** | `Java` `Spring Boot` `TypeScript` | Full-stack digital banking platform featuring core ledger workflows, secure REST APIs, and responsive client dashboard. |
-| **[whatsapp-automation](https://github.com/prabhat76/whatsapp-automation)** | `TypeScript` `Node.js` `Cloud API` | Automated WhatsApp Business messaging engine handling webhook events, customer flows, and CRM integration. |
-| **[mftrade](https://github.com/prabhat76/mftrade)** | `TypeScript` `Angular / React` | Mutual fund investment and portfolio analytics web app built for fast financial data rendering. |
-| **[RealesttateCRM](https://github.com/prabhat76/RealesttateCRM)** | `TypeScript` `Full-Stack` | Lead pipeline, property inventory, and client follow-up management platform. |
-| **[delivery-management_system](https://github.com/prabhat76/delivery-management_system)** | `TypeScript` `REST APIs` | Real-time order dispatch, tracking, and fleet coordination system. |
-| **[natrajsuper](https://github.com/prabhat76/natrajsuper)** | `Kotlin` `Android` | Production Android application published for an Indian agricultural equipment brand. |
+| **Experience** | **4+ Years** | Full-Stack & Lead Front-End Engineering (July 2022 – Present) |
+| **Codebase Output** | **49+ Repositories** | Enterprise fintech, CRMs, automation engines & Android apps |
+| **Tech Breadth** | **12+ Production Tools** | TypeScript, Angular, React, Next.js, Java, Spring Boot, Kotlin, SQL |
+| **Recognition** | **2x Pull Shark + YOLO** | Smart India Hackathon (SIH) Winner • 2 Published Research Papers |
 
 ---
 
-### 🧰 Technical Arsenal
+### 📈 Language & Stack Distribution (Across 49+ Repos)
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | Angular, React, Next.js, TypeScript, JavaScript (ES6+), RxJS, HTML5, CSS3/SCSS |
-| **Backend** | Java, Spring Boot, Node.js, RESTful APIs, Microservices |
-| **Mobile & Data** | Kotlin, Android SDK, Ionic, SQL Server, Supabase |
-| **DevOps & QA** | Docker, Jenkins, Git, Bitbucket, Linux, Cypress, Selenium |
+```text
+TypeScript   ████████████████████░░░░░   44%  (Frontend, Full-Stack SaaS, APIs)
+Java         ██████████████░░░░░░░░░░░   28%  (Spring Boot, Microservices, Banking)
+JavaScript   ████████░░░░░░░░░░░░░░░░░   16%  (ES6+, Node.js, Web Apps)
+Kotlin       ████░░░░░░░░░░░░░░░░░░░░░    8%  (Native Android Applications)
+SQL / Shell  ██░░░░░░░░░░░░░░░░░░░░░░░    4%  (SQL Server, Supabase, Linux VPS)
+```
 
 ---
 
-<div align="center">
+### 🏆 Quantified Project Portfolio
 
-### 📫 Let's Connect
-**[Explore All 49 Repositories →](https://github.com/prabhat76?tab=repositories)**
+| System | Primary Stack | Architecture & Scale |
+| :--- | :--- | :--- |
+| **[Easebankv3](https://github.com/prabhat76/Easebankv3)** & **[Easebank-ui](https://github.com/prabhat76/Easebank-ui)** | `Java` `Spring Boot` `TypeScript` | 2-tier monolithic banking backend + reactive client UI |
+| **[whatsapp-automation](https://github.com/prabhat76/whatsapp-automation)** | `TypeScript` `Node.js` | Real-time webhook processor & automated CRM messaging |
+| **[mftrade](https://github.com/prabhat76/mftrade)** | `TypeScript` | Financial portfolio tracker & mutual fund analytics engine |
+| **[RealesttateCRM](https://github.com/prabhat76/RealesttateCRM)** | `TypeScript` | Multi-stage lead pipeline & property inventory platform |
+| **[delivery-management_system](https://github.com/prabhat76/delivery-management_system)** | `TypeScript` | End-to-end order dispatch & fleet logistics system |
+| **[natrajsuper](https://github.com/prabhat76/natrajsuper)** | `Kotlin` `Android` | Production mobile app deployed on Google Play Console |
 
-</div>
+---
+
+### 🧰 Core Stack Breakdown
+
+- **Frontend (`4+ YOE`):** Angular, React, Next.js, TypeScript, RxJS, HTML5, CSS3/SCSS
+- **Backend (`4+ YOE`):** Java, Spring Boot, Node.js, RESTful APIs, Microservices
+- **Mobile & Data:** Kotlin, Android SDK, Ionic, SQL Server, Supabase
+- **DevOps & Testing:** Docker, Jenkins, Git, Bitbucket, Linux, Cypress, Selenium
